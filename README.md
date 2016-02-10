@@ -5,7 +5,7 @@ Website: http://aarjithn.github.io/jenkins-neo-theme
 
 So you love **Jenkins** but hate its ugly user interface and icons... Me too! Introducing **Jenkins Neo Theme**.
 
-This started as a fork to **jenkins-material-theme**, but changed mostly to use a flat and minimalistic design.
+This started as a fork to **[jenkins-material-theme][material]**, but changed mostly to use a flat and minimalistic design.
  
 ## Features
 * Just one small css file (35K)
